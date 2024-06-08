@@ -6,6 +6,7 @@ hostnamectl
 ```
 hostnamectl set-hostname blocked.kumara-hotspot.net
 ```
+```
 nano /etc/hosts
 
 blocked.kumara-hotspot.net
