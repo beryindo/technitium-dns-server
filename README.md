@@ -2,7 +2,6 @@
 DEBIAN 12
 
 ```
-```
 hostnamectl
 ```
 hostnamectl set-hostname blocked.kumara-hotspot.net
